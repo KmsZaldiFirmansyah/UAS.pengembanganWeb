@@ -1,8 +1,7 @@
-#kma zaldi firmansyah
-nim 701220249
-admin :admin@gmail.com
+# KMS ZALDI FIRMANSYAH 701220249
+# admin :admin@gmail.com
 Pw: 123
-pegawai:staf@gmail.com
+# pegawai:staf@gmail.com
 Pw:123
-samo pemilik toko:pimpinan@gmail.com
+# pemilik toko:pimpinan@gmail.com
 Pw:123
